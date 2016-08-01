@@ -1,0 +1,25 @@
+{
+  "name": "react-native-button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devnetik/react-native-button.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "component"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devnetik/react-native-button/issues"
+  },
+  "homepage": "https://github.com/Devnetik/react-native-button#readme"
+}
