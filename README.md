@@ -1,5 +1,5 @@
 # Native Button
-## A native button for react.
+## A native button for React.
 [![Gitter](https://badges.gitter.im/Devnetik/react-native-button.svg)](https://gitter.im/Devnetik/react-native-button?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![npm](https://img.shields.io/npm/dm/react-native-button.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-button)
