@@ -24,6 +24,7 @@ npm install --save react-native-button
 - `caption` caption for button that displays on hover (default is 'Button')
 - `buttonStyle` sets style for the button (default color is black)
 - `textStyle` style of text for button
+
 ## Contribute
 
 Comments, Issues and Pull Requests are welcomed!
