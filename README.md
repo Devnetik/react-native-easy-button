@@ -1,15 +1,15 @@
 # Native Button
-## A native button for React.
-[![Gitter](https://badges.gitter.im/Devnetik/react-native-button.svg)](https://gitter.im/Devnetik/react-native-button?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+## A button for React Native.
+[![Gitter](https://badges.gitter.im/Devnetik/react-native-easy-button.svg)](https://gitter.im/Devnetik/react-native-easy-button?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![npm](https://img.shields.io/npm/dm/react-native-button.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-button)
-[![npm](https://img.shields.io/npm/v/react-native-button.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-button)
-[![Beerpay](https://beerpay.io/Devnetik/react-native-button/badge.svg?style=flat)](https://beerpay.io/Devnetik/react-native-button)
+[![npm](https://img.shields.io/npm/dm/react-native-easy-button.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-easy-button)
+[![npm](https://img.shields.io/npm/v/react-native-easy-button.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-easy-button)
+[![Beerpay](https://beerpay.io/Devnetik/react-native-easy-button/badge.svg?style=flat)](https://beerpay.io/Devnetik/react-native-easy-button)
 
 ## Getting started
-```
-sh
+```sh
 npm install --save react-native-button
+
 ```
 
 ## Example
