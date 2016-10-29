@@ -1,4 +1,4 @@
-# Native Button
+# Easy Button
 ## A button for React Native.
 [![Gitter](https://badges.gitter.im/Devnetik/react-native-easy-button.svg)](https://gitter.im/Devnetik/react-native-easy-button?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
