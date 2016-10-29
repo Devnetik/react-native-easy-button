@@ -8,7 +8,7 @@
 
 ## Getting started
 ```sh
-npm install --save react-native-button
+npm install --save react-native-easy-button
 
 ```
 
