@@ -1,36 +1,31 @@
-# react-native-button
+# Easy Button
+## A button for React Native.
+[![Gitter](https://badges.gitter.im/Devnetik/react-native-easy-button.svg)](https://gitter.im/Devnetik/react-native-easy-button?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Gitter](https://badges.gitter.im/Devnetik/react-native-button.svg)](https://gitter.im/Devnetik/react-native-button?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![npm](https://img.shields.io/npm/dm/react-native-easy-button.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-easy-button)
+[![npm](https://img.shields.io/npm/v/react-native-easy-button.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-easy-button)
+[![Beerpay](https://beerpay.io/Devnetik/react-native-easy-button/badge.svg?style=flat)](https://beerpay.io/Devnetik/react-native-easy-button)
 
 ## Getting started
 ```sh
-npm install --save react-native-simple-button
+npm install --save react-native-easy-button
+
 ```
 
 ## Example
-
 ```javascript
-class Example extends Component {
-  constructor(props) {
-    super(props);
-
-  }
-  _onPress(){
-    console.log("Action when the button is pressed")
-  }
-  render() {
-    return (
-      <View style={{flex: 1}}>
-        <Text>Some content</Text>
-        <Button onPress={this._onPress} caption="Insert Button Text Here" />
-      </View>
-    )
-  }
-}
+<Button title="some title" onPress={someFunction}/>
 
 ```
 
-## Constribute
+## Props
+- `icon` button icon
+- `onPress` function called when button is pressed
+- `caption` caption for button that displays on hover (default is 'Button')
+- `buttonStyle` sets style for the button (default color is black)
+- `textStyle` style of text for button
+
+## Contribute
 
 Comments, Issues and Pull Requests are welcomed!
 
